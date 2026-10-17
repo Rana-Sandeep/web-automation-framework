@@ -1,4 +1,8 @@
 name: Automation CI
+
+permissions:
+  contents: read
+  checks: write
 permissions:
   contents: read
   checks: write
